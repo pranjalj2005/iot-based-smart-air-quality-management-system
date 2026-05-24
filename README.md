@@ -114,6 +114,4 @@ Pranjal Jawalkar
 
 ## License
 
-This project is licensed under the MIT License.<img width="720" height="1280" alt="prototype jpg" src="https://github.com/user-attachments/assets/0867e2e6-8bf4-4d51-b8bb-dca93c83b4be" />
-<img width="1520" height="1600" alt="lcd_output jpg" src="https://github.com/user-attachments/assets/426e2e44-b7ef-4a68-b3ea-ac5c55c2733d" />
-<img width="680" height="733" alt="blynk_dashboard jpg" src="https://github.com/user-attachments/assets/0a4970f2-1c6f-46ae-b03b-7fb03dc4bd8b" />
+This project is licensed under the MIT License.
